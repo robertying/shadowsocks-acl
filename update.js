@@ -7,12 +7,14 @@ const getUrl = async (url) => {
   return response.data;
 };
 
-const getDomainsFromDomainList = (list) => {
+const getDomainsFromDomainList = (list, pure) => {
   return list
     .split("\n")
     .filter((line) => line.trim())
-    .map(
-      (line) => "(?:^|\\.)" + line.split("/")[1].replaceAll(".", "\\.") + "$"
+    .map((line) =>
+      pure
+        ? line.split("/")[1]
+        : "(?:^|\\.)" + line.split("/")[1].replaceAll(".", "\\.") + "$"
     )
     .join("\n");
 };
@@ -29,12 +31,14 @@ const parseGfwList = async () => {
     )
   );
   const result = await fs.readFile("gfwlist.txt", "utf8");
-  return result.split("\n").filter((line) => line.trim()).map(
-    (line) => "(?:^|\\.)" + line.replaceAll(".", "\\.") + "$"
-  )
-  .join("\n");;
+  return result
+    .split("\n")
+    .filter((line) => line.trim())
+    .map((line) => "(?:^|\\.)" + line.replaceAll(".", "\\.") + "$")
+    .join("\n");
 };
 
+const lanList = await fs.readFile("lanlist.acl", "utf8");
 const chinaIpV4 = await getUrl(
   "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt"
 );
@@ -47,24 +51,25 @@ const appleChinaDomains = await getUrl(
 const googleChinaDomains = await getUrl(
   "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf"
 );
-const chinaDomains = await getUrl(
+const otherChinaDomains = await getUrl(
   "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
 );
-const lanList = await fs.readFile("lanlist.acl", "utf8");
+const chinaDomains = appleChinaDomains + googleChinaDomains + otherChinaDomains;
 
 const lan = lanList.trim();
-const apple = getDomainsFromDomainList(appleChinaDomains);
-const google = getDomainsFromDomainList(googleChinaDomains);
 const china = getDomainsFromDomainList(chinaDomains);
 const v4 = chinaIpV4.trim();
 const v6 = chinaIpV6.trim();
-const gfw = await parseGfwList()
+const gfw = await parseGfwList();
+
+await fs.writeFile(
+  "chinalist.txt",
+  getDomainsFromDomainList(chinaDomains, true) + "\n"
+);
 
 await fs.writeFile(
   "chinalist.acl",
   `${lan}
-${apple}
-${google}
 ${china}
 ${v4}
 ${v6}
@@ -82,8 +87,6 @@ ${v6}
 await fs.writeFile(
   "chinadomainlist.acl",
   `${lan}
-${apple}
-${google}
 ${china}
 `
 );

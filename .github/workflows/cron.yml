@@ -1,0 +1,20 @@
+name: Update ACLs
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+      - run: yarn install
+      - run: yarn build
+      - run: git config --global user.name "Rui Ying"
+      - run: git config --global user.email "yingrui205@gmail.com"
+      - run: git add .
+      - run: git diff-index --quiet HEAD || git commit -m "Update ACLs at $(date '+%Y/%m/%d %H:%M:%S')"
+      - run: git push

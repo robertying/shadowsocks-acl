@@ -54,7 +54,12 @@ const googleChinaDomains = await getUrl(
 const otherChinaDomains = await getUrl(
   "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
 );
-const chinaDomains = appleChinaDomains + googleChinaDomains + otherChinaDomains;
+const customChinaDomains = await fs.readFile("customchinadomains.txt", "utf8");
+const chinaDomains =
+  appleChinaDomains +
+  googleChinaDomains +
+  otherChinaDomains +
+  customChinaDomains;
 
 const lan = lanList.trim();
 const china = getDomainsFromDomainList(chinaDomains);

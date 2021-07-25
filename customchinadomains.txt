@@ -1,0 +1,2 @@
+server=/push.apple.com/114.114.114.114
+server=/updates.cdn-apple.com/114.114.114.114

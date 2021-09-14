@@ -5446,7 +5446,6 @@
 (?:^|\.)58xs\.com$
 (?:^|\.)58xs\.la$
 (?:^|\.)58xs\.tw$
-(?:^|\.)58xuechewang\.com$
 (?:^|\.)58xuexi\.com$
 (?:^|\.)58yiji\.com$
 (?:^|\.)58yuefu\.com$
@@ -19857,6 +19856,7 @@
 (?:^|\.)diyifangdai\.com$
 (?:^|\.)diyifanwen\.com$
 (?:^|\.)diyifanwen\.net$
+(?:^|\.)diyigaokao\.com$
 (?:^|\.)diyihuifu\.com$
 (?:^|\.)diyijuzi\.com$
 (?:^|\.)diyinews\.com$
@@ -44189,6 +44189,7 @@
 (?:^|\.)patchallin\.com$
 (?:^|\.)patchew\.org$
 (?:^|\.)patent-cn\.com$
+(?:^|\.)patent9\.com$
 (?:^|\.)patexplorer\.com$
 (?:^|\.)patindex\.com$
 (?:^|\.)patmm\.com$
@@ -49012,6 +49013,7 @@
 (?:^|\.)sevencdn\.com$
 (?:^|\.)sevenseas-china\.com$
 (?:^|\.)sewise\.com$
+(?:^|\.)sexytea2013\.com$
 (?:^|\.)sf-airlines\.com$
 (?:^|\.)sf-bearing\.com$
 (?:^|\.)sf-card\.com$
@@ -55624,6 +55626,7 @@
 (?:^|\.)unclicks\.com$
 (?:^|\.)undefined\.ltd$
 (?:^|\.)underfill\.cc$
+(?:^|\.)uneed\.com$
 (?:^|\.)unfish\.net$
 (?:^|\.)ungifts\.com$
 (?:^|\.)uni-perfect\.com$
@@ -60140,6 +60143,7 @@
 (?:^|\.)xiald\.com$
 (?:^|\.)xialingying\.cc$
 (?:^|\.)xialv\.com$
+(?:^|\.)xiamai\.net$
 (?:^|\.)xiamenair\.com$
 (?:^|\.)xiamentianqi114\.com$
 (?:^|\.)xiami\.com$
@@ -60352,7 +60356,6 @@
 (?:^|\.)xiaohe97\.com$
 (?:^|\.)xiaohei\.com$
 (?:^|\.)xiaoheima\.com$
-(?:^|\.)xiaohongblog\.com$
 (?:^|\.)xiaohongchun\.com$
 (?:^|\.)xiaohongdian\.wang$
 (?:^|\.)xiaohongshu\.com$
@@ -60444,6 +60447,7 @@
 (?:^|\.)xiaominfo\.com$
 (?:^|\.)xiaoming\.me$
 (?:^|\.)xiaomingming\.org$
+(?:^|\.)xiaomiqiu\.com$
 (?:^|\.)xiaomiquan\.com$
 (?:^|\.)xiaomishu\.com$
 (?:^|\.)xiaomiwujiecao\.com$
@@ -60846,6 +60850,7 @@
 (?:^|\.)xingfagroup\.com$
 (?:^|\.)xingfudu\.com$
 (?:^|\.)xingfufangdai\.com$
+(?:^|\.)xingfulizhaofang\.com$
 (?:^|\.)xingfunancun\.com$
 (?:^|\.)xingfuu\.com$
 (?:^|\.)xinggan\.com$
@@ -62101,6 +62106,7 @@
 (?:^|\.)xxlinux\.com$
 (?:^|\.)xxliudsp\.com$
 (?:^|\.)xxlwin\.com$
+(?:^|\.)xxm\.plus$
 (?:^|\.)xxmac\.com$
 (?:^|\.)xxmanhua\.info$
 (?:^|\.)xxmh117\.com$
@@ -63944,6 +63950,7 @@
 (?:^|\.)youdiancms\.com$
 (?:^|\.)youdnser\.com$
 (?:^|\.)youdu\.im$
+(?:^|\.)youdwh\.com$
 (?:^|\.)youease\.net$
 (?:^|\.)youedata\.com$
 (?:^|\.)youeryun\.com$
@@ -66195,6 +66202,7 @@
 (?:^|\.)zhh\.me$
 (?:^|\.)zhhainiao\.com$
 (?:^|\.)zhhs-china\.com$
+(?:^|\.)zhhtxt\.com$
 (?:^|\.)zhhuahui\.com$
 (?:^|\.)zhhy-oa\.com$
 (?:^|\.)zhi-bo\.net$
@@ -74512,7 +74520,7 @@
 2404:f4c0:f4c0::/44
 2404:f4c0:f54e::/48
 2404:f4c0:f601::/48
-2404:f4c0:f602::/47
+2404:f4c0:f602::/48
 2404:f4c0:f607::/48
 2404:f4c0:f609::/48
 2404:f4c0:f60c::/48
@@ -74533,8 +74541,7 @@
 2404:f4c0:fc80::/44
 2404:f4c0:fe10::/44
 2404:f4c0:feff::/48
-2404:f4c0:ff01::/48
-2404:f4c0:ff04::/47
+2404:f4c0:ff04::/48
 2404:f4c0:ff06::/48
 2404:f4c0:ff0f::/48
 2404:f4c0:fff0::/48
@@ -74611,20 +74618,18 @@
 2406:840:e800::/48
 2406:840:eab0::/48
 2406:840:eab4::/48
-2406:840:eb00::/45
+2406:840:eb00::/46
 2406:840:eb80::/43
 2406:840:f000::/44
 2406:840:f200::/44
 2406:840:f380::/44
 2406:840:f400::/44
 2406:840:f440::/47
-2406:840:f480::/48
 2406:840:f900::/48
 2406:840:fcc0::/44
 2406:840:fd00::/48
 2406:840:fd05::/48
 2406:840:fd06::/47
-2406:840:fd0c::/48
 2406:840:fd10::/48
 2406:840:fe00::/44
 2406:2000:a0::/48
@@ -75237,7 +75242,6 @@
 2a0d:2583::/32
 2a0d:2584::/32
 2a0d:2682::/32
-2a0e:800:6666::/48
 2a0e:97c0:330::/44
 2a0e:aa01:1fff::/48
 2a0e:aa06::/40

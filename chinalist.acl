@@ -14240,7 +14240,6 @@
 (?:^|\.)ceoeo\.com$
 (?:^|\.)ceoim\.com$
 (?:^|\.)ceomoo\.com$
-(?:^|\.)ceons4\.com$
 (?:^|\.)ceook\.com$
 (?:^|\.)ceoplaza\.com$
 (?:^|\.)ceotx\.com$
@@ -23296,7 +23295,6 @@
 (?:^|\.)fenxi\.org$
 (?:^|\.)fenxiangdashi\.com$
 (?:^|\.)fenxianglife\.com$
-(?:^|\.)fenxiaoba\.net$
 (?:^|\.)fenxiyi\.com$
 (?:^|\.)fenxuekeji\.com$
 (?:^|\.)fenying\.net$
@@ -24196,7 +24194,6 @@
 (?:^|\.)fw-biotech\.com$
 (?:^|\.)fw4\.co$
 (?:^|\.)fw4\.me$
-(?:^|\.)fwcdn\.com$
 (?:^|\.)fwdq\.com$
 (?:^|\.)fwdq\.net$
 (?:^|\.)fwdqw\.com$
@@ -26666,7 +26663,6 @@
 (?:^|\.)habadog\.com$
 (?:^|\.)habbygames\.com$
 (?:^|\.)hac-ker\.net$
-(?:^|\.)hacdn\.net$
 (?:^|\.)hack0nair\.me$
 (?:^|\.)hack50\.com$
 (?:^|\.)hackav\.com$
@@ -26691,7 +26687,6 @@
 (?:^|\.)hacpai\.com$
 (?:^|\.)haczjob\.com$
 (?:^|\.)hadax\.com$
-(?:^|\.)hadns\.net$
 (?:^|\.)hadobi\.com$
 (?:^|\.)hadsky\.com$
 (?:^|\.)hadyang\.com$
@@ -40022,7 +40017,6 @@
 (?:^|\.)meirishentie\.com$
 (?:^|\.)meiritv\.net$
 (?:^|\.)meiriyiwen\.com$
-(?:^|\.)meiriyouxue\.com$
 (?:^|\.)meirong\.net$
 (?:^|\.)meirongshanghai\.com$
 (?:^|\.)meisaitu\.com$
@@ -59484,6 +59478,7 @@
 (?:^|\.)wykefu\.com$
 (?:^|\.)wykw\.com$
 (?:^|\.)wykz\.com$
+(?:^|\.)wylws\.com$
 (?:^|\.)wymp4\.net$
 (?:^|\.)wymp46\.com$
 (?:^|\.)wyn88\.com$
@@ -63895,10 +63890,8 @@
 (?:^|\.)youjiaus\.net$
 (?:^|\.)youjiaxiao\.com$
 (?:^|\.)youjiuhealth\.com$
-(?:^|\.)youjk\.com$
 (?:^|\.)youjoy\.tv$
 (?:^|\.)youjuke\.com$
-(?:^|\.)youka\.la$
 (?:^|\.)youkake\.com$
 (?:^|\.)youke\.co$
 (?:^|\.)youke\.com$
@@ -67501,6 +67494,7 @@
 (?:^|\.)zsf\.cool$
 (?:^|\.)zsfstudio\.xyz$
 (?:^|\.)zsfund\.com$
+(?:^|\.)zsfy\.org$
 (?:^|\.)zsgd\.com$
 (?:^|\.)zsglrj\.com$
 (?:^|\.)zsgoodlighting\.com$
@@ -74364,7 +74358,6 @@
 2404:2280:10d::/48
 2404:2280:113::/48
 2404:2280:124::/47
-2404:2280:147::/48
 2404:2280:1be::/48
 2404:6380::/48
 2404:6380:1000::/48
@@ -75042,7 +75035,10 @@
 240d:c040::/44
 240e::/20
 2602:fd92:600::/44
+2602:fd92:630::/47
+2602:fd92:632::/48
 2602:fd92:800::/40
+2602:fed2:731d::/48
 2602:feda:182::/47
 2602:feda:1bf::/48
 2602:feda:1d1::/48
@@ -75139,7 +75135,9 @@
 2a0d:2583::/32
 2a0d:2584::/32
 2a0d:2682::/32
+2a0d:2686::/32
 2a0e:800:6666::/48
+2a0e:97c0:330::/44
 2a0e:97c0:550::/44
 2a0e:aa01:1fff::/48
 2a0e:aa06::/40
@@ -75171,10 +75169,14 @@
 2a0e:b107:f08::/45
 2a0e:b107:11b0::/44
 2a0e:b107:12c0::/44
+2a0e:b107:1420::/43
+2a0e:b107:1460::/44
 2a0e:b107:1477::/48
 2a0e:b107:147a::/48
 2a0e:b107:147c::/48
 2a0e:b107:14a0::/44
+2a0e:b107:1571::/48
+2a0e:b107:1572::/47
 2a0e:b107:16b0::/44
 2a0f:5707:ac01::/48
 2a0f:7980::/44

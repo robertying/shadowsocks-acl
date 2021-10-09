@@ -1113,6 +1113,7 @@
 (?:^|\.)coinegg\.com$
 (?:^|\.)coinex\.com$
 (?:^|\.)coingi\.com$
+(?:^|\.)coinmarketcap\.com$
 (?:^|\.)coinrail\.co\.kr$
 (?:^|\.)cointiger\.com$
 (?:^|\.)cointobe\.com$
@@ -1890,6 +1891,7 @@
 (?:^|\.)fscked\.org$
 (?:^|\.)fsurf\.com$
 (?:^|\.)ftchinese\.com$
+(?:^|\.)ftp\.com$
 (?:^|\.)ftp1\.biz$
 (?:^|\.)ftpserver\.biz$
 (?:^|\.)ftv\.com\.tw$
@@ -5055,7 +5057,7 @@
 (?:^|\.)tparents\.org$
 (?:^|\.)tpi\.org\.tw$
 (?:^|\.)tracfone\.com$
-(?:^|\.)traffichaus\.com$
+(?:^|\.)tradingview\.com$
 (?:^|\.)trans\.wenweipo\.com$
 (?:^|\.)translate\.goog$
 (?:^|\.)translate\.google$

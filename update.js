@@ -66,6 +66,7 @@ const china = getDomainsFromDomainList(chinaDomains);
 const v4 = chinaIpV4.trim();
 const v6 = chinaIpV6.trim();
 const gfw = await parseGfwList();
+const telegram = await fs.readFile("telegram.txt", "utf8")
 
 await fs.writeFile(
   "chinalist.txt",
@@ -101,6 +102,6 @@ await fs.writeFile(
   `[bypass_all]
 
 [proxy_list]
-${gfw}
+${telegram}${gfw}
 `
 );

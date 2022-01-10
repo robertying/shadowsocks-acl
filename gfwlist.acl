@@ -747,6 +747,7 @@
 (?:^|\.)books\.com\.tw$
 (?:^|\.)booktopia\.com\.au$
 (?:^|\.)boomssr\.com$
+(?:^|\.)borgenmagazine\.com$
 (?:^|\.)bot\.nu$
 (?:^|\.)botanwang\.com$
 (?:^|\.)bowenpress\.com$
@@ -901,7 +902,6 @@
 (?:^|\.)cdef\.org$
 (?:^|\.)cdig\.info$
 (?:^|\.)cdjp\.org$
-(?:^|\.)cdn-apple\.com$
 (?:^|\.)cdn-images\.mailchimp\.com$
 (?:^|\.)cdn\.assets\.lfpcontent\.com$
 (?:^|\.)cdn\.helixstudios\.net$
@@ -2368,6 +2368,7 @@
 (?:^|\.)grangorz\.org$
 (?:^|\.)graphis\.ne\.jp$
 (?:^|\.)graphql\.org$
+(?:^|\.)gravatar\.com$
 (?:^|\.)greasespot\.net$
 (?:^|\.)great-firewall\.com$
 (?:^|\.)great-roc\.org$
@@ -3161,6 +3162,7 @@
 (?:^|\.)linuxtoy\.org$
 (?:^|\.)lionsroar\.com$
 (?:^|\.)lipuman\.com$
+(?:^|\.)liquiditytp\.com$
 (?:^|\.)liquidvpn\.com$
 (?:^|\.)listennotes\.com$
 (?:^|\.)listentoyoutube\.com$
@@ -3638,6 +3640,7 @@
 (?:^|\.)newstamago\.com$
 (?:^|\.)newstapa\.org$
 (?:^|\.)newstarnet\.com$
+(?:^|\.)newstatesman\.com$
 (?:^|\.)newsweek\.com$
 (?:^|\.)newtaiwan\.com\.tw$
 (?:^|\.)newtalk\.tw$
@@ -3803,6 +3806,7 @@
 (?:^|\.)old-cat\.net$
 (?:^|\.)old\.honeynet\.org$
 (?:^|\.)old\.nabble\.com$
+(?:^|\.)olevod\.com$
 (?:^|\.)olumpo\.com$
 (?:^|\.)olympicwatch\.org$
 (?:^|\.)omgili\.com$
@@ -4036,6 +4040,7 @@
 (?:^|\.)poloniex\.com$
 (?:^|\.)polymer-project\.org$
 (?:^|\.)polymerhk\.com$
+(?:^|\.)poolin\.com$
 (?:^|\.)popo\.tw$
 (?:^|\.)popvote\.hk$
 (?:^|\.)popxi\.click$
@@ -4257,6 +4262,7 @@
 (?:^|\.)relaxbbs\.com$
 (?:^|\.)relay\.com\.tw$
 (?:^|\.)releaseinternational\.org$
+(?:^|\.)religionnews\.com$
 (?:^|\.)religioustolerance\.org$
 (?:^|\.)renminbao\.com$
 (?:^|\.)renyurenquan\.org$

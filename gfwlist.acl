@@ -608,6 +608,7 @@
 (?:^|\.)blinkx\.com$
 (?:^|\.)blinw\.com$
 (?:^|\.)blip\.tv$
+(?:^|\.)blockcast\.it$
 (?:^|\.)blockcn\.com$
 (?:^|\.)blockedbyhk\.com$
 (?:^|\.)blockless\.com$
@@ -1200,6 +1201,7 @@
 (?:^|\.)crossfire\.co\.kr$
 (?:^|\.)crossthewall\.net$
 (?:^|\.)crossvpn\.net$
+(?:^|\.)croxyproxy\.com$
 (?:^|\.)crrev\.com$
 (?:^|\.)crucial\.com$
 (?:^|\.)crunchyroll\.com$
@@ -3150,7 +3152,7 @@
 (?:^|\.)liberal\.org\.hk$
 (?:^|\.)libertytimes\.com\.tw$
 (?:^|\.)library\.usc\.cuhk\.edu\.hk$
-(?:^|\.)lidecheng\.com$
+(?:^|\.)libredd\.it$
 (?:^|\.)lifemiles\.com$
 (?:^|\.)lighten\.org\.tw$
 (?:^|\.)lighti\.me$
@@ -4756,6 +4758,7 @@
 (?:^|\.)stumbleupon\.com$
 (?:^|\.)stupidvideos\.com$
 (?:^|\.)subacme\.rerouted\.org$
+(?:^|\.)substack\.com$
 (?:^|\.)successfn\.com$
 (?:^|\.)suche\.gmx\.net$
 (?:^|\.)sugarsync\.com$
@@ -5512,6 +5515,7 @@
 (?:^|\.)viu\.com$
 (?:^|\.)viu\.tv$
 (?:^|\.)vivahentai4u\.net$
+(?:^|\.)vivaldi\.com$
 (?:^|\.)vivatube\.com$
 (?:^|\.)vivthomas\.com$
 (?:^|\.)vizvaz\.com$

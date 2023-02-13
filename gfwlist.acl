@@ -2830,6 +2830,7 @@
 (?:^|\.)instagram\.com$
 (?:^|\.)instanthq\.com$
 (?:^|\.)institut-tibetain\.org$
+(?:^|\.)interactivebrokers\.com$
 (?:^|\.)international-news\.newsmagazine\.asia$
 (?:^|\.)internet\.org$
 (?:^|\.)internetdefenseleague\.org$
@@ -3881,6 +3882,7 @@
 (?:^|\.)ontrac\.com$
 (?:^|\.)oopsforum\.com$
 (?:^|\.)open\.com\.hk$
+(?:^|\.)openai\.com$
 (?:^|\.)openallweb\.com$
 (?:^|\.)opendemocracy\.net$
 (?:^|\.)opendn\.xyz$
@@ -4272,7 +4274,6 @@
 (?:^|\.)rateyourmusic\.com$
 (?:^|\.)rationalwiki\.org$
 (?:^|\.)raw\.githack\.com$
-(?:^|\.)raw\.githubusercontent\.com$
 (?:^|\.)rawgit\.com$
 (?:^|\.)rawgithub\.com$
 (?:^|\.)razyboard\.com$
@@ -4703,6 +4704,7 @@
 (?:^|\.)spreadshirt\.es$
 (?:^|\.)spring4u\.info$
 (?:^|\.)springboardplatform\.com$
+(?:^|\.)springwood\.me$
 (?:^|\.)sprite\.org$
 (?:^|\.)sproutcore\.com$
 (?:^|\.)sproxy\.info$
@@ -4996,6 +4998,7 @@
 (?:^|\.)thlib\.org$
 (?:^|\.)thomasbernhard\.org$
 (?:^|\.)thongdreams\.com$
+(?:^|\.)threadreaderapp\.com$
 (?:^|\.)threatchaos\.com$
 (?:^|\.)throughnightsfire\.com$
 (?:^|\.)thumbzilla\.com$
@@ -6021,6 +6024,7 @@
 (?:^|\.)yong\.hu$
 (?:^|\.)yorkbbs\.ca$
 (?:^|\.)you-get\.org$
+(?:^|\.)you\.com$
 (?:^|\.)youdontcare\.com$
 (?:^|\.)youjizz\.com$
 (?:^|\.)youmaker\.com$

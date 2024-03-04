@@ -10,7 +10,7 @@ const getUrl = async (url) => {
 const getDomainsFromDomainList = (list, pure) => {
   return list
     .split("\n")
-    .filter((line) => line.trim())
+    .filter((line) => !line.startsWith("#") && line.trim())
     .map((line) =>
       pure
         ? line.split("/")[1]
@@ -66,7 +66,7 @@ const china = getDomainsFromDomainList(chinaDomains);
 const v4 = chinaIpV4.trim();
 const v6 = chinaIpV6.trim();
 const gfw = await parseGfwList();
-const telegram = await fs.readFile("telegram.txt", "utf8")
+const telegram = await fs.readFile("telegram.txt", "utf8");
 
 await fs.writeFile(
   "chinalist.txt",

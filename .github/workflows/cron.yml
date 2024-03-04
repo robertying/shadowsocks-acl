@@ -7,14 +7,14 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: "20"
       - run: yarn install
       - run: yarn build
       - run: git config --global user.name "Rui Ying"
-      - run: git config --global user.email "yingrui205@gmail.com"
+      - run: git config --global user.email "git@ruiying.io"
       - run: git add .
       - run: git diff-index --quiet HEAD || git commit -m "Update ACLs at $(date '+%Y/%m/%d %H:%M:%S')"
       - run: git push

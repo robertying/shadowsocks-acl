@@ -650,7 +650,6 @@
 (?:^|\.)blog\.workflow\.is$
 (?:^|\.)blog\.xuite\.net$
 (?:^|\.)blog\.youthwant\.com\.tw$
-(?:^|\.)blog\.youxu\.info$
 (?:^|\.)blogblog\.com$
 (?:^|\.)blogcatalog\.com$
 (?:^|\.)blogcity\.me$
@@ -4095,6 +4094,7 @@
 (?:^|\.)piposay\.com$
 (?:^|\.)piraattilahti\.org$
 (?:^|\.)piring\.com$
+(?:^|\.)pixeldrain\.com$
 (?:^|\.)pixelqi\.com$
 (?:^|\.)pixiv\.net$
 (?:^|\.)pixnet\.net$
@@ -4248,6 +4248,7 @@
 (?:^|\.)pythonhackers\.com$
 (?:^|\.)pytorch\.org$
 (?:^|\.)qanote\.com$
+(?:^|\.)qbittorrent\.org$
 (?:^|\.)qgirl\.com\.tw$
 (?:^|\.)qhigh\.com$
 (?:^|\.)qi-gong\.me$
@@ -5931,6 +5932,7 @@
 (?:^|\.)x-berry\.com$
 (?:^|\.)x-wall\.org$
 (?:^|\.)x\.co$
+(?:^|\.)x\.com$
 (?:^|\.)x\.company$
 (?:^|\.)x1949x\.com$
 (?:^|\.)x24hr\.com$
@@ -6058,7 +6060,6 @@
 (?:^|\.)yingsuoss\.com$
 (?:^|\.)yinlei\.org$
 (?:^|\.)yipub\.com$
-(?:^|\.)yiyechat\.com$
 (?:^|\.)yizhihongxing\.com$
 (?:^|\.)yobit\.net$
 (?:^|\.)yobt\.com$
@@ -6106,13 +6107,13 @@
 (?:^|\.)yuanzhengtang\.org$
 (?:^|\.)yulghun\.com$
 (?:^|\.)yunchao\.net$
-(?:^|\.)yuntipub\.com$
 (?:^|\.)yuvutu\.com$
 (?:^|\.)yvesgeleyn\.com$
 (?:^|\.)ywpw\.com$
 (?:^|\.)yx51\.net$
 (?:^|\.)yyii\.org$
 (?:^|\.)yyjlymb\.xyz$
+(?:^|\.)yysub\.net$
 (?:^|\.)yzzk\.com$
 (?:^|\.)z-lib\.org$
 (?:^|\.)zacebook\.com$

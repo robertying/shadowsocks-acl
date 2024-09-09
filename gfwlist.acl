@@ -337,7 +337,6 @@
 (?:^|\.)api\.ai$
 (?:^|\.)api\.dropboxapi\.com$
 (?:^|\.)api\.linksalpha\.com$
-(?:^|\.)api\.proxlet\.com$
 (?:^|\.)api\.pureapk\.com$
 (?:^|\.)api\.recaptcha\.net$
 (?:^|\.)apiary\.io$
@@ -641,7 +640,6 @@
 (?:^|\.)blog\.martinoei\.com$
 (?:^|\.)blog\.pathtosharepoint\.com$
 (?:^|\.)blog\.pentalogic\.net$
-(?:^|\.)blog\.qooza\.hk$
 (?:^|\.)blog\.ranxiang\.com$
 (?:^|\.)blog\.sina\.com\.tw$
 (?:^|\.)blog\.sogoo\.org$
@@ -829,6 +827,7 @@
 (?:^|\.)buzzhand\.com$
 (?:^|\.)buzzhand\.net$
 (?:^|\.)buzzorange\.com$
+(?:^|\.)buzzsprout\.com$
 (?:^|\.)bvpn\.com$
 (?:^|\.)bwgyhw\.com$
 (?:^|\.)bwh1\.net$
@@ -2938,6 +2937,7 @@
 (?:^|\.)iuksky\.com$
 (?:^|\.)ivacy\.com$
 (?:^|\.)iverycd\.com$
+(?:^|\.)ivonblog\.com$
 (?:^|\.)ivpn\.net$
 (?:^|\.)iwara\.tv$
 (?:^|\.)ixquick\.com$
@@ -2953,6 +2953,7 @@
 (?:^|\.)jamaat\.org$
 (?:^|\.)jamestown\.org$
 (?:^|\.)jamyangnorbu\.com$
+(?:^|\.)jan\.ai$
 (?:^|\.)jandyx\.com$
 (?:^|\.)janwongphoto\.com$
 (?:^|\.)japan-whores\.com$
@@ -4046,8 +4047,6 @@
 (?:^|\.)pen\.io$
 (?:^|\.)penchinese\.com$
 (?:^|\.)penchinese\.net$
-(?:^|\.)pengyulong\.com$
-(?:^|\.)penisbot\.com$
 (?:^|\.)penthouse\.com$
 (?:^|\.)pentoy\.hk$
 (?:^|\.)peoplebookcafe\.com$
@@ -4063,7 +4062,6 @@
 (?:^|\.)phapluan\.org$
 (?:^|\.)phayul\.com$
 (?:^|\.)philborges\.com$
-(?:^|\.)philly\.com$
 (?:^|\.)phmsociety\.org$
 (?:^|\.)phncdn\.com$
 (?:^|\.)phobos\.apple\.com$
@@ -4310,12 +4308,10 @@
 (?:^|\.)raizoji\.or\.jp$
 (?:^|\.)ramcity\.com\.au$
 (?:^|\.)rangwang\.biz$
-(?:^|\.)rangzen\.com$
 (?:^|\.)rangzen\.net$
 (?:^|\.)rangzen\.org$
 (?:^|\.)ranyunfei\.com$
 (?:^|\.)rapbull\.net$
-(?:^|\.)rapidgator\.net$
 (?:^|\.)rapidmoviez\.com$
 (?:^|\.)rapidvpn\.com$
 (?:^|\.)rarbgprx\.org$
@@ -5158,6 +5154,7 @@
 (?:^|\.)ticket\.com\.tw$
 (?:^|\.)tigervpn\.com$
 (?:^|\.)tiktok\.com$
+(?:^|\.)tiktokv\.com$
 (?:^|\.)tiltbrush\.com$
 (?:^|\.)timdir\.com$
 (?:^|\.)time\.com$

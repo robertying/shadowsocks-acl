@@ -19,14 +19,6 @@ const getDomainsFromDomainList = (list, pure) => {
     .join("\n");
 };
 
-const getAdGuardListFromDomainList = (list, dns) => {
-  return list
-    .split("\n")
-    .filter((line) => !line.startsWith("#") && line.trim())
-    .map((line) => `[/${line.split("/")[1]}/]${dns}`)
-    .join("\n");
-};
-
 const parseGfwList = async () => {
   const script = await getUrl(
     "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh",
@@ -112,11 +104,4 @@ await fs.writeFile(
 [proxy_list]
 ${telegram}${gfw}
 `,
-);
-
-await fs.writeFile(
-  "adguardhome.txt",
-  "https://1.1.1.1/dns-query\nhttps://1.0.0.1/dns-query\ntls://1.1.1.1\ntls://1.0.0.1\n" +
-    getAdGuardListFromDomainList(chinaDomains, "223.5.5.5 223.6.6.6") +
-    "\n",
 );

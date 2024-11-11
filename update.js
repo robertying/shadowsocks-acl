@@ -14,7 +14,7 @@ const getDomainsFromDomainList = (list, pure) => {
     .map((line) =>
       pure
         ? line.split("/")[1]
-        : "(?:^|\\.)" + line.split("/")[1].replaceAll(".", "\\.") + "$"
+        : "(?:^|\\.)" + line.split("/")[1].replaceAll(".", "\\.") + "$",
     )
     .join("\n");
 };
@@ -29,14 +29,14 @@ const getAdGuardListFromDomainList = (list, dns) => {
 
 const parseGfwList = async () => {
   const script = await getUrl(
-    "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh"
+    "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh",
   );
   await fs.writeFile("gfwlist2dnsmasq.sh", script);
   await new Promise((resolve, reject) =>
     exec(
       "chmod +x ./gfwlist2dnsmasq.sh && ./gfwlist2dnsmasq.sh -l -o gfwlist.txt",
-      (err, stdout) => (err ? reject(err) : resolve(stdout))
-    )
+      (err, stdout) => (err ? reject(err) : resolve(stdout)),
+    ),
   );
   const result = await fs.readFile("gfwlist.txt", "utf8");
   return result
@@ -48,19 +48,19 @@ const parseGfwList = async () => {
 
 const lanList = await fs.readFile("lanlist.acl", "utf8");
 const chinaIpV4 = await getUrl(
-  "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt"
+  "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt",
 );
 const chinaIpV6 = await getUrl(
-  "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt"
+  "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
 );
 const appleChinaDomains = await getUrl(
-  "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf"
+  "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf",
 );
 const googleChinaDomains = await getUrl(
-  "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf"
+  "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf",
 );
 const otherChinaDomains = await getUrl(
-  "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
+  "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf",
 );
 const customChinaDomains = await fs.readFile("customchinadomains.txt", "utf8");
 const chinaDomains =
@@ -78,7 +78,7 @@ const telegram = await fs.readFile("telegram.txt", "utf8");
 
 await fs.writeFile(
   "chinalist.txt",
-  getDomainsFromDomainList(chinaDomains, true) + "\n"
+  getDomainsFromDomainList(chinaDomains, true) + "\n",
 );
 
 await fs.writeFile(
@@ -87,7 +87,7 @@ await fs.writeFile(
 ${china}
 ${v4}
 ${v6}
-`
+`,
 );
 
 await fs.writeFile(
@@ -95,14 +95,14 @@ await fs.writeFile(
   `${lan}
 ${v4}
 ${v6}
-`
+`,
 );
 
 await fs.writeFile(
   "chinadomainlist.acl",
   `${lan}
 ${china}
-`
+`,
 );
 
 await fs.writeFile(
@@ -111,6 +111,8 @@ await fs.writeFile(
 
 [proxy_list]
 ${telegram}${gfw}
+`,
+);
 
 await fs.writeFile(
   "adguardhome.txt",

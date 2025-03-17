@@ -47,6 +47,7 @@
 2017.hk
 2021hkcharter.com
 2047.name
+2047.one
 2049bbs.xyz
 21andy.com
 21sextury.com
@@ -323,6 +324,7 @@ aofriend.com
 aofriend.com.au
 aojiao.org
 aolchannels.aol.com
+aomedia.org
 aomiwang.com
 apartmentratings.com
 apartments.com
@@ -535,6 +537,7 @@ bcex.ca
 bcmorning.com
 bdsmvideos.net
 beaconevents.com
+bearteach.com
 bebo.com
 beeg.com
 beepool.com
@@ -868,6 +871,8 @@ c2cx.com
 c3pool.com
 cableav.tv
 cablegatesearch.net
+cachefly.com
+cachefly.net
 cachinese.com
 cacnw.com
 cactusvpn.com
@@ -999,6 +1004,7 @@ chaos.social
 chapm25.com
 character.ai
 chat.lmsys.org
+chat.openai.com
 chatgpt.com
 chatnook.com
 chaturbate.com
@@ -1297,6 +1303,7 @@ cumlouder.com
 curvefish.com
 cusp.hk
 cusu.hk
+cutout.pro
 cutscenes.net
 cw.com.tw
 cyberghost.natado.com
@@ -1760,6 +1767,7 @@ facebookquotes4u.com
 faceless.me
 facesofnyfw.com
 facesoftibetanselfimmolators.info
+factchecklab.org
 factpedia.org
 fail.hk
 faith100.org
@@ -1821,7 +1829,6 @@ fartit.com
 farwestchina.com
 fast.wistia.com
 fastestvpn.com
-fastgpt.run
 fastpic.ru
 fastssh.com
 faststone.org
@@ -1847,7 +1854,6 @@ fdc64.org
 fdc89.jp
 feedburner.com
 feeder.co
-feedly.comfastgpt.run
 feeds.fileforum.com
 feedx.net
 feelssh.com
@@ -2036,6 +2042,7 @@ frootvpn.com
 froth.zone
 fscked.org
 fsurf.com
+ft.com
 ftchinese.com
 ftp1.biz
 ftpserver.biz
@@ -2121,6 +2128,7 @@ gclubs.com
 gcmasia.com
 gcpnews.com
 gcr.io
+gdaily.org
 gdbt.net
 gdzf.org
 geek-art.net
@@ -2152,6 +2160,7 @@ getlantern.org
 getmalus.com
 getmdl.io
 getoutline.org
+getsession.org
 getsocialscope.com
 getsync.com
 gettr.com
@@ -3824,6 +3833,7 @@ netcolony.com
 netflav.com
 netflix.com
 netflix.net
+netlify.app
 netme.cc
 netsarang.com
 netsneak.com
@@ -4079,7 +4089,7 @@ ontrac.com
 oopsforum.com
 open.com.hk
 open.firstory.me
-openai.com
+open.spotify.com
 openallweb.com
 opendemocracy.net
 opendn.xyz
@@ -4342,7 +4352,7 @@ powercx.com
 powerphoto.org
 ppy.sh
 prayforchina.net
-premeforwindows7.com
+prcleader.org
 premproxy.com
 presentation.new
 presentationzen.com
@@ -4910,6 +4920,7 @@ soumo.info
 soundcloud.com
 soundofhope.kr
 soundofhope.org
+soundon.fm
 soup.io
 soupofmedia.com
 sourceforge.net
@@ -4941,7 +4952,6 @@ spiderpool.com
 spike.com
 sports.williamhill.com
 spotflux.com
-spotify.com
 spreadsheet.new
 spreadshirt.es
 spreaker.com
@@ -5203,6 +5213,7 @@ textnow.me
 tfc-taiwan.org.tw
 tfhub.dev
 tfiflve.com
+tg-me.com
 th.hao123.com
 thaicn.com
 thb.gov.tw
@@ -5231,7 +5242,6 @@ theguardian.com
 thehindu.com
 thehun.net
 theinitium.com
-themoviedb.org
 thenewslens.com
 thepiratebay.org
 theporndude.com
@@ -6185,6 +6195,7 @@ wzyboy.im
 x-art.com
 x-berry.com
 x-wall.org
+x.ai
 x.co
 x.com
 x.company

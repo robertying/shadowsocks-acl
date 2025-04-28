@@ -1575,7 +1575,6 @@ dtwang.org
 duanzhihu.com
 dubox.com
 duck.com
-duckdns.org
 duckduckgo-owned-server.yahoo.net
 duckduckgo.com
 duckload.com
@@ -3891,6 +3890,7 @@ newnews.ca
 news.cnyes.com
 news.ebc.net.tw
 news.msn.com.tw
+news.mt.co.kr
 news.nationalgeographic.com
 news.omy.sg
 news.seehua.com
@@ -4649,6 +4649,7 @@ rushbee.com
 rusvpn.com
 ruten.com.tw
 rutracker.net
+rutracker.org
 rutube.ru
 ruyiseek.com
 rxhj.net

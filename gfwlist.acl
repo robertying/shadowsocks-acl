@@ -278,6 +278,7 @@
 (?:^|\.)amnestyusa\.org$
 (?:^|\.)ampproject\.org$
 (?:^|\.)amtb-taipei\.org$
+(?:^|\.)amuletmc\.com$
 (?:^|\.)anchor\.fm$
 (?:^|\.)anchorfree\.com$
 (?:^|\.)ancsconf\.org$
@@ -374,6 +375,7 @@
 (?:^|\.)artofpeacefoundation\.org$
 (?:^|\.)artstation\.com$
 (?:^|\.)artsy\.net$
+(?:^|\.)arvanstorage\.ir$
 (?:^|\.)asacp\.org$
 (?:^|\.)asdfg\.jp$
 (?:^|\.)asg\.to$
@@ -1066,7 +1068,6 @@
 (?:^|\.)cloud\.dify\.ai$
 (?:^|\.)cloud\.mail\.ru$
 (?:^|\.)cloudflare-ipfs\.com$
-(?:^|\.)cloudfront\.net$
 (?:^|\.)cloudfunctions\.net$
 (?:^|\.)club1069\.com$
 (?:^|\.)clubhouseapi\.com$
@@ -1425,6 +1426,7 @@
 (?:^|\.)dw-world\.de$
 (?:^|\.)dw\.com$
 (?:^|\.)dw\.de$
+(?:^|\.)dweb\.link$
 (?:^|\.)dwnews\.com$
 (?:^|\.)dwnews\.net$
 (?:^|\.)dynamic-dns\.net$
@@ -1761,6 +1763,7 @@
 (?:^|\.)focusvpn\.com$
 (?:^|\.)fofg\.org$
 (?:^|\.)fooooo\.com$
+(?:^|\.)forbes\.com$
 (?:^|\.)foreignaffairs\.com$
 (?:^|\.)foreignpolicy\.com$
 (?:^|\.)form\.new$
@@ -2282,6 +2285,7 @@
 (?:^|\.)gotquestions\.org$
 (?:^|\.)gotrusted\.com$
 (?:^|\.)gotw\.ca$
+(?:^|\.)gov\.ir$
 (?:^|\.)gov\.taipei$
 (?:^|\.)gov\.tw$
 (?:^|\.)gr8domain\.biz$
@@ -2706,6 +2710,7 @@
 (?:^|\.)iownyour\.org$
 (?:^|\.)ipdefenseforum\.com$
 (?:^|\.)ipfire\.org$
+(?:^|\.)ipfs\.4everland\.io$
 (?:^|\.)ipfs\.io$
 (?:^|\.)iphone4hongkong\.com$
 (?:^|\.)iphonetaiwan\.org$
@@ -2720,7 +2725,9 @@
 (?:^|\.)iptv\.com\.tw$
 (?:^|\.)iptvbin\.com$
 (?:^|\.)ipvanish\.com$
+(?:^|\.)irangov\.ir$
 (?:^|\.)iredmail\.org$
+(?:^|\.)irna\.ir$
 (?:^|\.)ironpython\.net$
 (?:^|\.)ironsocket\.com$
 (?:^|\.)is-a-hunter\.com$
@@ -3532,6 +3539,7 @@
 (?:^|\.)nflximg\.net$
 (?:^|\.)nflxso\.net$
 (?:^|\.)nflxvideo\.net$
+(?:^|\.)nftstorage\.link$
 (?:^|\.)nga\.mil$
 (?:^|\.)ngensis\.com$
 (?:^|\.)nhentai\.net$
@@ -3702,6 +3710,7 @@
 (?:^|\.)onmypc\.org$
 (?:^|\.)onthehunt\.com$
 (?:^|\.)ontrac\.com$
+(?:^|\.)oojj\.de$
 (?:^|\.)open\.com\.hk$
 (?:^|\.)open\.firstory\.me$
 (?:^|\.)openai\.com$
@@ -3953,6 +3962,7 @@
 (?:^|\.)premproxy\.com$
 (?:^|\.)presentation\.new$
 (?:^|\.)presentationzen\.com$
+(?:^|\.)president\.ir$
 (?:^|\.)presidentlee\.tw$
 (?:^|\.)prestige-av\.com$
 (?:^|\.)primevideo\.com$
@@ -4563,6 +4573,7 @@
 (?:^|\.)storj\.io$
 (?:^|\.)storm\.mg$
 (?:^|\.)stormmediagroup\.com$
+(?:^|\.)storry\.tv$
 (?:^|\.)stoweboyd\.com$
 (?:^|\.)straitstimes\.com$
 (?:^|\.)stranabg\.com$
@@ -5383,6 +5394,7 @@
 (?:^|\.)vultryhw\.com$
 (?:^|\.)w-pool\.com$
 (?:^|\.)w\.idaiwan\.com$
+(?:^|\.)w3s\.link$
 (?:^|\.)waffle1999\.com$
 (?:^|\.)wahas\.com$
 (?:^|\.)waikeung\.org$

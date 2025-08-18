@@ -534,6 +534,7 @@
 (?:^|\.)bet365\.com$
 (?:^|\.)betaclouds\.net$
 (?:^|\.)betfair\.com$
+(?:^|\.)betterhash\.net$
 (?:^|\.)betternet\.co$
 (?:^|\.)bettervpn\.com$
 (?:^|\.)bettween\.com$
@@ -560,6 +561,7 @@
 (?:^|\.)biliworld\.com$
 (?:^|\.)billypan\.com$
 (?:^|\.)binance\.com$
+(?:^|\.)binance\.org$
 (?:^|\.)binancezh\.cc$
 (?:^|\.)binux\.me$
 (?:^|\.)bird\.so$
@@ -2391,6 +2393,7 @@
 (?:^|\.)heqinglian\.net$
 (?:^|\.)heritage\.org$
 (?:^|\.)herokuapp\.com$
+(?:^|\.)herominers\.com$
 (?:^|\.)hexieshe\.com$
 (?:^|\.)hexieshe\.xyz$
 (?:^|\.)hexxeh\.net$
@@ -2687,6 +2690,7 @@
 (?:^|\.)indiemerch\.com$
 (?:^|\.)inews-api\.tvb\.com$
 (?:^|\.)info-graf\.fr$
+(?:^|\.)infura\.io$
 (?:^|\.)inherit\.live$
 (?:^|\.)initiativesforchina\.org$
 (?:^|\.)inkbunny\.net$
@@ -2760,6 +2764,7 @@
 (?:^|\.)itaiwan\.gov\.tw$
 (?:^|\.)italiatibet\.org$
 (?:^|\.)itasoftware\.com$
+(?:^|\.)itch\.io$
 (?:^|\.)itemdb\.com$
 (?:^|\.)itemfix\.com$
 (?:^|\.)ithelp\.ithome\.com\.tw$
@@ -3111,6 +3116,7 @@
 (?:^|\.)lsxszzg\.com$
 (?:^|\.)ltn\.com\.tw$
 (?:^|\.)luckydesigner\.space$
+(?:^|\.)luckymobile\.ca$
 (?:^|\.)ludepress\.com$
 (?:^|\.)luke54\.com$
 (?:^|\.)luke54\.org$
@@ -3233,6 +3239,7 @@
 (?:^|\.)messenger\.com$
 (?:^|\.)meta\.com$
 (?:^|\.)metafilter\.com$
+(?:^|\.)metamask\.io$
 (?:^|\.)metart\.com$
 (?:^|\.)metarthunter\.com$
 (?:^|\.)meteorshowersonline\.com$
@@ -3779,6 +3786,7 @@
 (?:^|\.)paljorpublications\.com$
 (?:^|\.)paltalk\.com$
 (?:^|\.)panamapapers\.sueddeutsche\.de$
+(?:^|\.)pancakeswap\.finance$
 (?:^|\.)pandafan\.pub$
 (?:^|\.)pandapow\.co$
 (?:^|\.)pandapow\.net$
@@ -3845,6 +3853,7 @@
 (?:^|\.)perplexity\.ai$
 (?:^|\.)persecutionblog\.com$
 (?:^|\.)persiankitty\.com$
+(?:^|\.)pewresearch\.org$
 (?:^|\.)phapluan\.org$
 (?:^|\.)phayul\.com$
 (?:^|\.)philborges\.com$
@@ -3974,6 +3983,7 @@
 (?:^|\.)prisoneralert\.com$
 (?:^|\.)pritunl\.com$
 (?:^|\.)privacybox\.de$
+(?:^|\.)privacyguides\.org$
 (?:^|\.)private\.com$
 (?:^|\.)privateinternetaccess\.com$
 (?:^|\.)privatepaste\.com$
@@ -4628,6 +4638,7 @@
 (?:^|\.)surrenderat20\.net$
 (?:^|\.)svsfx\.com$
 (?:^|\.)swagbucks\.com$
+(?:^|\.)swapspace\.co$
 (?:^|\.)swissinfo\.ch$
 (?:^|\.)swissvpn\.net$
 (?:^|\.)switch1\.jp$

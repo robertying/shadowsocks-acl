@@ -1154,6 +1154,7 @@
 (?:^|\.)cotweet\.com$
 (?:^|\.)counter\.social$
 (?:^|\.)coursehero\.com$
+(?:^|\.)covenantswatch\.org\.tw$
 (?:^|\.)coze\.com$
 (?:^|\.)cpj\.org$
 (?:^|\.)cpu-monkey\.com$
@@ -1293,6 +1294,7 @@
 (?:^|\.)demo\.unlock-music\.dev$
 (?:^|\.)democrats\.org$
 (?:^|\.)demosisto\.hk$
+(?:^|\.)deno\.dev$
 (?:^|\.)depositphotos\.com$
 (?:^|\.)desc\.se$
 (?:^|\.)desipro\.de$
@@ -1361,6 +1363,7 @@
 (?:^|\.)doc\.new$
 (?:^|\.)docker\.com$
 (?:^|\.)docker\.io$
+(?:^|\.)docs\.deno\.com$
 (?:^|\.)docs\.new$
 (?:^|\.)doctorvoice\.org$
 (?:^|\.)documentingreality\.com$
@@ -1872,6 +1875,8 @@
 (?:^|\.)ftx\.com$
 (?:^|\.)fucd\.com$
 (?:^|\.)fuchsia\.dev$
+(?:^|\.)fuckccp\.com$
+(?:^|\.)fuckccp\.xyz$
 (?:^|\.)fuckgfw\.org$
 (?:^|\.)fulione\.com$
 (?:^|\.)fullerconsideration\.com$
@@ -1883,6 +1888,7 @@
 (?:^|\.)furbo\.org$
 (?:^|\.)furhhdl\.org$
 (?:^|\.)furinkan\.com$
+(?:^|\.)furrybar\.com$
 (?:^|\.)futurechinaforum\.org$
 (?:^|\.)futuremessage\.org$
 (?:^|\.)fux\.com$
@@ -2768,6 +2774,7 @@
 (?:^|\.)itemdb\.com$
 (?:^|\.)itemfix\.com$
 (?:^|\.)ithelp\.ithome\.com\.tw$
+(?:^|\.)itiger\.com$
 (?:^|\.)itsaol\.com$
 (?:^|\.)itshidden\.com$
 (?:^|\.)itsky\.it$
@@ -3462,6 +3469,7 @@
 (?:^|\.)nationsonline\.org$
 (?:^|\.)nationwide\.com$
 (?:^|\.)naughtyamerica\.com$
+(?:^|\.)naver\.com$
 (?:^|\.)navyfamily\.navy\.mil$
 (?:^|\.)navyreserve\.navy\.mil$
 (?:^|\.)naweeklytimes\.com$
@@ -5168,6 +5176,7 @@
 (?:^|\.)udn\.com$
 (?:^|\.)udn\.com\.tw$
 (?:^|\.)udnbkk\.com$
+(?:^|\.)udomain\.hk$
 (?:^|\.)uforadio\.com\.tw$
 (?:^|\.)ufreevpn\.com$
 (?:^|\.)ugo\.com$

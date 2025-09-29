@@ -327,6 +327,7 @@
 (?:^|\.)api-secure\.recaptcha\.net$
 (?:^|\.)api-verify\.recaptcha\.net$
 (?:^|\.)api\.ai$
+(?:^|\.)api\.palworldgame\.com$
 (?:^|\.)api\.pureapk\.com$
 (?:^|\.)api\.recaptcha\.net$
 (?:^|\.)api\.steampowered\.com$
@@ -1190,6 +1191,7 @@
 (?:^|\.)csw\.org\.uk$
 (?:^|\.)ct\.org\.tw$
 (?:^|\.)ctao\.org$
+(?:^|\.)ctinets\.com$
 (?:^|\.)ctinews\.com$
 (?:^|\.)ctitv\.com\.tw$
 (?:^|\.)ctowc\.org$
@@ -2720,6 +2722,7 @@
 (?:^|\.)internetdefenseleague\.org$
 (?:^|\.)internetfreedom\.org$
 (?:^|\.)internetpopculture\.com$
+(?:^|\.)interseclab\.org$
 (?:^|\.)inthenameofconfuciusmovie\.com$
 (?:^|\.)investigating\.wordpress\.com$
 (?:^|\.)invidio\.us$
@@ -3685,6 +3688,7 @@
 (?:^|\.)ocreampies\.com$
 (?:^|\.)ocry\.com$
 (?:^|\.)october-review\.org$
+(?:^|\.)octocaptcha\.com$
 (?:^|\.)oculus\.com$
 (?:^|\.)oculuscdn\.com$
 (?:^|\.)odysee\.com$
@@ -5184,7 +5188,6 @@
 (?:^|\.)uberproxy\.net$
 (?:^|\.)uc-japan\.org$
 (?:^|\.)uchicago\.edu$
-(?:^|\.)uderzo\.it$
 (?:^|\.)udn\.com$
 (?:^|\.)udn\.com\.tw$
 (?:^|\.)udnbkk\.com$
@@ -5555,6 +5558,7 @@
 (?:^|\.)wikimapia\.org$
 (?:^|\.)wikimedia\.org$
 (?:^|\.)wikinews\.org$
+(?:^|\.)wikipedia\.com$
 (?:^|\.)wikipedia\.org$
 (?:^|\.)wikisource\.org$
 (?:^|\.)wikiversity\.org$

@@ -577,6 +577,7 @@
 (?:^|\.)bit-z\.com$
 (?:^|\.)bit\.do$
 (?:^|\.)bit\.ly$
+(?:^|\.)bitbaby\.com$
 (?:^|\.)bitbay\.net$
 (?:^|\.)bitchute\.com$
 (?:^|\.)bitcointalk\.org$
@@ -2653,6 +2654,7 @@
 (?:^|\.)icu-project\.org$
 (?:^|\.)id\.hao123\.com$
 (?:^|\.)id\.heroku\.com$
+(?:^|\.)idcflare\.com$
 (?:^|\.)idemocracy\.asia$
 (?:^|\.)identi\.ca$
 (?:^|\.)idiomconnection\.com$
@@ -3855,6 +3857,7 @@
 (?:^|\.)parler\.com$
 (?:^|\.)parse\.com$
 (?:^|\.)parsevideo\.com$
+(?:^|\.)partnerstack\.xyz$
 (?:^|\.)partycasino\.com$
 (?:^|\.)partypoker\.com$
 (?:^|\.)passion\.com$
@@ -4621,6 +4624,7 @@
 (?:^|\.)startuplivingchina\.com$
 (?:^|\.)stat\.gov\.tw$
 (?:^|\.)static-economist\.com$
+(?:^|\.)static\.pocketcasts\.com$
 (?:^|\.)static\.shemalez\.com$
 (?:^|\.)static01\.nyt\.com$
 (?:^|\.)staticflickr\.com$

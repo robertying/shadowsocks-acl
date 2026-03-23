@@ -98,6 +98,7 @@
 (?:^|\.)a-normal-day\.com$
 (?:^|\.)a248\.e\.akamai\.net$
 (?:^|\.)aamacau\.com$
+(?:^|\.)aave\.com$
 (?:^|\.)abc\.net\.au$
 (?:^|\.)abc\.xyz$
 (?:^|\.)abebooks\.co\.uk$
@@ -766,6 +767,7 @@
 (?:^|\.)chromestatus\.com$
 (?:^|\.)chromium\.org$
 (?:^|\.)ci-en\.jp$
+(?:^|\.)cia\.gov$
 (?:^|\.)cici\.com$
 (?:^|\.)ciciai\.com$
 (?:^|\.)cirosantilli\.com$
@@ -2627,8 +2629,10 @@
 (?:^|\.)ohmyrss\.com$
 (?:^|\.)ok\.ru$
 (?:^|\.)okayfreedom\.com$
+(?:^|\.)okcoin\.com$
 (?:^|\.)okex\.com$
 (?:^|\.)okk\.tw$
+(?:^|\.)oklink\.com$
 (?:^|\.)okpool\.me$
 (?:^|\.)okx\.com$
 (?:^|\.)old\.honeynet\.org$

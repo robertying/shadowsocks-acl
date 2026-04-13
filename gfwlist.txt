@@ -184,11 +184,9 @@ angela-merkel.de
 angola.org
 angularjs.org
 aniscartujo.com
-annas-archive.in
-annas-archive.li
-annas-archive.org
-annas-archive.pm
-annas-archive.se
+annas-archive.gd
+annas-archive.gl
+annas-archive.pk
 anobii.com
 anonfiles.com
 anonymouse.org
@@ -844,6 +842,7 @@ cpj.org
 cpu-monkey.com
 cq99.us
 crackle.com
+crashlytics.com
 crazypool.org
 crazyshit.com
 crbug.com
@@ -2311,7 +2310,6 @@ mediafreakcity.com
 mediawiki.org
 medium.com
 meee.com.tw
-meetup.com
 mega.co.nz
 mega.io
 mega.nz
@@ -2379,6 +2377,7 @@ mirrorbooks.com
 mirrormedia.mg
 missav.com
 missav.ws
+mistral.ai
 mitbbs.com
 miuipolska.pl
 mixero.com
@@ -2885,7 +2884,6 @@ pursuestar.com
 putty.org
 pximg.net
 python.com.tw
-pytorch.org
 qbittorrent.org
 qgirl.com.tw
 qi-gong.me
@@ -3047,6 +3045,7 @@ savetibet.org
 savetibetstore.org
 saveuighur.org
 sbme.me
+sbti.unun.dev
 scache.vzw.com
 scache1.vzw.com
 scache2.vzw.com
@@ -3351,7 +3350,6 @@ tbsn.org
 tbssqh.org
 teachparentstech.org
 technews.tw
-techspot.com
 techviz.net
 teck.in
 teco-hk.org
@@ -3365,7 +3363,6 @@ telegram.me
 telegram.org
 telegram.space
 telegramdownload.com
-telegraph.co.uk
 telesco.pe
 tellapart.com
 temu.com

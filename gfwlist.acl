@@ -3066,9 +3066,6 @@
 (?:^|\.)saveuighur\.org$
 (?:^|\.)sbme\.me$
 (?:^|\.)sbti\.unun\.dev$
-(?:^|\.)scache\.vzw\.com$
-(?:^|\.)scache1\.vzw\.com$
-(?:^|\.)scache2\.vzw\.com$
 (?:^|\.)schema\.org$
 (?:^|\.)scmp\.com$
 (?:^|\.)scramble\.io$
@@ -3190,6 +3187,7 @@
 (?:^|\.)sockslist\.net$
 (?:^|\.)socrec\.org$
 (?:^|\.)softether-download\.com$
+(?:^|\.)softether\.co\.jp$
 (?:^|\.)softether\.org$
 (?:^|\.)softfamous\.com$
 (?:^|\.)softwarebychuck\.com$
@@ -3248,7 +3246,6 @@
 (?:^|\.)sproutcore\.com$
 (?:^|\.)squirrelvpn\.com$
 (?:^|\.)ss-link\.com$
-(?:^|\.)ss7\.vzw\.com$
 (?:^|\.)ssglobal\.co$
 (?:^|\.)ssl\.webpack\.de$
 (?:^|\.)sspanel\.net$
@@ -3713,6 +3710,7 @@
 (?:^|\.)upmedia\.mg$
 (?:^|\.)upornia\.com$
 (?:^|\.)uproxy\.org$
+(?:^|\.)upsangel\.com$
 (?:^|\.)uptodown\.com$
 (?:^|\.)uraban\.me$
 (?:^|\.)urbandictionary\.com$

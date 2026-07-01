@@ -6,9 +6,9 @@
     "build": "node update.js"
   },
   "dependencies": {
-    "axios": "^1.7.7",
-    "fs-extra": "^11.2.0",
-    "prettier": "^3.3.3"
+    "axios": "^1.18.1",
+    "fs-extra": "^11.3.6",
+    "prettier": "^3.9.4"
   },
-  "packageManager": "pnpm@10.0.0-alpha.0+sha512.856941ef22665d2f3e41c04e8d86ed757ef057fb2bc35011698bfa988ef5817cc1cdd28bb883e7f23f0568c75de5544d4750211d4276b9ba6d55369eb207a549"
+  "packageManager": "pnpm@11.9.0+sha512.bd682d5d03fe525ef7c9fd6780c6884d1e756ac4c9c9fe00c538782824310dcf90e3ddc4f53835f06dfaebd5085e41855e0bcbb3b60de2ac5bbab89e5036f03b"
 }

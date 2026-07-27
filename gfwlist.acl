@@ -794,6 +794,7 @@
 (?:^|\.)cia\.gov$
 (?:^|\.)cici\.com$
 (?:^|\.)ciciai\.com$
+(?:^|\.)circle19\.org$
 (?:^|\.)cirosantilli\.com$
 (?:^|\.)citizencn\.com$
 (?:^|\.)citizenlab\.ca$
@@ -806,6 +807,7 @@
 (?:^|\.)civitai\.com$
 (?:^|\.)cixiaoya\.club$
 (?:^|\.)ck101\.com$
+(?:^|\.)clashyun\.com$
 (?:^|\.)classicalguitarblog\.net$
 (?:^|\.)claude\.ai$
 (?:^|\.)claude\.com$
@@ -2195,6 +2197,7 @@
 (?:^|\.)kantie\.org$
 (?:^|\.)kaotic\.com$
 (?:^|\.)karayou\.com$
+(?:^|\.)kards\.com$
 (?:^|\.)kathmandupost\.com$
 (?:^|\.)kawaiikawaii\.jp$
 (?:^|\.)kawase\.com$
@@ -3459,6 +3462,7 @@
 (?:^|\.)syncback\.com$
 (?:^|\.)synergyse\.com$
 (?:^|\.)syosetu\.com$
+(?:^|\.)sysub\.com$
 (?:^|\.)t-g\.com$
 (?:^|\.)t\.co$
 (?:^|\.)t\.me$
@@ -3672,6 +3676,7 @@
 (?:^|\.)togetter\.com$
 (?:^|\.)token\.im$
 (?:^|\.)tokenlon\.im$
+(?:^|\.)tokenplus\.app$
 (?:^|\.)tokyo-porn-tube\.com$
 (?:^|\.)tokyocn\.com$
 (?:^|\.)tomp3\.cc$
@@ -4337,6 +4342,7 @@
 (?:^|\.)zello\.com$
 (?:^|\.)zenmate\.com$
 (?:^|\.)zenmate\.com\.ru$
+(?:^|\.)zenmux\.ai$
 (?:^|\.)zerohedge\.com$
 (?:^|\.)zeronet\.io$
 (?:^|\.)zh-hans\.cfsh99\.com$

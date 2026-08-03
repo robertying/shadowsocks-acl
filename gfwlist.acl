@@ -710,6 +710,7 @@
 (?:^|\.)centerforhumanreprod\.com$
 (?:^|\.)centralnation\.com$
 (?:^|\.)centurys\.net$
+(?:^|\.)cerebras\.ai$
 (?:^|\.)certificate-transparency\.org$
 (?:^|\.)certificate\.revocationcheck\.com$
 (?:^|\.)cfr\.org$
@@ -790,6 +791,7 @@
 (?:^|\.)chromecast\.com$
 (?:^|\.)chromeexperiments\.com$
 (?:^|\.)chromestatus\.com$
+(?:^|\.)cht\.com\.tw$
 (?:^|\.)ci-en\.jp$
 (?:^|\.)cia\.gov$
 (?:^|\.)cici\.com$
@@ -2282,6 +2284,7 @@
 (?:^|\.)leonardo\.ai$
 (?:^|\.)lesoir\.be$
 (?:^|\.)letscorp\.net$
+(?:^|\.)level-plus\.net$
 (?:^|\.)lexica\.art$
 (?:^|\.)lhakar\.org$
 (?:^|\.)li\.taipei$
@@ -2545,7 +2548,6 @@
 (?:^|\.)motherless\.com$
 (?:^|\.)movements\.org$
 (?:^|\.)moviefap\.com$
-(?:^|\.)mozilla\.ai$
 (?:^|\.)mpettis\.com$
 (?:^|\.)mpfinance\.com$
 (?:^|\.)mpinews\.com$
@@ -2700,6 +2702,7 @@
 (?:^|\.)ntdtv\.com$
 (?:^|\.)ntdtv\.com\.tw$
 (?:^|\.)ntdtv\.cz$
+(?:^|\.)nthlink\.com$
 (?:^|\.)nuexpo\.com$
 (?:^|\.)nurgo-software\.com$
 (?:^|\.)nusatrip\.com$
@@ -3014,7 +3017,6 @@
 (?:^|\.)pullfolio\.co$
 (?:^|\.)pure18\.com$
 (?:^|\.)pureconcepts\.net$
-(?:^|\.)puredns\.org$
 (?:^|\.)pureinsight\.org$
 (?:^|\.)purepdf\.com$
 (?:^|\.)purevpn\.com$
@@ -3059,7 +3061,6 @@
 (?:^|\.)radio\.garden$
 (?:^|\.)radioaustralia\.net\.au$
 (?:^|\.)radiohilight\.net$
-(?:^|\.)radiojar\.com$
 (?:^|\.)radioline\.co$
 (?:^|\.)radiovaticana\.org$
 (?:^|\.)radiovncr\.com$
@@ -3172,7 +3173,6 @@
 (?:^|\.)safechat\.com$
 (?:^|\.)safeguarddefenders\.com$
 (?:^|\.)safervpn\.com$
-(?:^|\.)sagernet\.org$
 (?:^|\.)saintyculture\.com$
 (?:^|\.)sakuralive\.com$
 (?:^|\.)salvation\.org\.hk$
@@ -3718,6 +3718,7 @@
 (?:^|\.)truebuddha-md\.org$
 (?:^|\.)trustwallet\.com$
 (?:^|\.)truthsocial\.com$
+(?:^|\.)tryai\.dev$
 (?:^|\.)tryheart\.jp$
 (?:^|\.)tsdr\.uspto\.gov$
 (?:^|\.)tt1069\.com$
@@ -3899,6 +3900,7 @@
 (?:^|\.)uyghurtribunal\.com$
 (?:^|\.)uygur\.fc2web\.com$
 (?:^|\.)uymaarip\.com$
+(?:^|\.)v\.recipes$
 (?:^|\.)v2\.help$
 (?:^|\.)v2\.hysteria\.network$
 (?:^|\.)v2ex\.com$
@@ -4164,7 +4166,6 @@
 (?:^|\.)www\.antd\.org$
 (?:^|\.)www\.aolnews\.com$
 (?:^|\.)www\.bing\.com$
-(?:^|\.)www\.clashverge\.dev$
 (?:^|\.)www\.cmoinc\.org$
 (?:^|\.)www\.dmm\.com$
 (?:^|\.)www\.eastturkistan\.net$

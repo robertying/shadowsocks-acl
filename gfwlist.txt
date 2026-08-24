@@ -223,6 +223,7 @@ api.moomoobull.com
 api.palworldgame.com
 api.pureapk.com
 api.recaptcha.net
+api.shuaiapi.com
 api.steampowered.com
 api5.futunn.com
 apiary.io
@@ -562,6 +563,7 @@ break.com
 breakgfw.com
 breakingtweets.com
 breakwall.net
+briarproject.org
 brill.com
 brizzly.com
 broadpressinc.com
@@ -704,6 +706,7 @@ character.ai
 chat.com
 chat.lmsys.org
 chatgpt.com
+chatgpt.site
 chatpdf.com
 chaturbate.com
 checkgfw.com
@@ -1863,6 +1866,7 @@ himalayan-foundation.org
 himemix.com
 hindustantimes.com
 hinet.net
+historylines.net
 hitbtc.com
 hitomi.la
 hive.blog
@@ -2205,6 +2209,7 @@ kinmen.org.tw
 kinmen.travel
 kinokuniya.com
 kiwi.kz
+kiwix.org
 kk-whys.co.jp
 kkbox.com
 kknews.cc
@@ -2312,6 +2317,7 @@ liveleak.com
 livemint.com
 livestream.com
 livevideo.com
+livingatlas.arcgis.com
 livingstream.com
 lmarena.ai
 localbitcoins.com
@@ -2399,6 +2405,7 @@ mattwilcox.net
 maven.neoforged.net
 mcadforums.com
 mcaf.ee
+mceindex.com
 mcusercontent.com
 md-t.org
 me.me
@@ -2728,6 +2735,7 @@ oklink.com
 okpool.me
 okx.com
 old.honeynet.org
+oldmapsonline.org
 olehdtv.com
 olelive.com
 olevod.com
@@ -3147,6 +3155,7 @@ rxhj.net
 s-cute.com
 s.yimg.com
 s3-ap-northeast-1.amazonaws.com
+s3.dualstack.us-west-2.amazonaws.com
 sacks.com
 sacom.hk
 sadistic-v.com
@@ -3166,6 +3175,7 @@ savetibet.de
 savetibet.org
 savetibetstore.org
 saveuighur.org
+sb.sb
 sbme.me
 sbti.unun.dev
 schema.org
@@ -4092,6 +4102,7 @@ wiktionary.org
 willw.net
 wilsoncenter.org
 windscribe.com
+windy.com
 wingamestore.com
 wingy.site
 wionews.com
@@ -4182,6 +4193,7 @@ x.co
 x.com
 x.company
 x3guide.com
+x86.fr
 xbabe.com
 xbookcn.com
 xbtce.com

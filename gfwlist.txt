@@ -610,6 +610,7 @@ byrut.org
 c-est-simple.com
 c-span.org
 c-spanvideo.org
+c.go-mpulse.net
 c.mi.com
 c2cx.com
 c3pool.com
@@ -754,6 +755,7 @@ chinesedemocracy.com
 chinesegay.org
 chinesen.de
 chinesenews.net.au
+chineseposters.net
 chineseradioseattle.com
 chineseupress.com
 chingcheong.com
@@ -3022,6 +3024,7 @@ qiangyou.org
 qianmo.tw
 qiwen.lu
 qmp4.com
+qobuz.com
 qoos.com
 qq.co.za
 qstatus.com
@@ -3900,6 +3903,7 @@ valeursactuelles.com
 vansky.com
 vaticannews.va
 vatn.org
+vava8.com
 vcf-online.org
 vcfbuilder.org
 veed.io

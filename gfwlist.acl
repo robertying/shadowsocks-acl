@@ -429,6 +429,7 @@
 (?:^|\.)bignews\.org$
 (?:^|\.)bigone\.com$
 (?:^|\.)bild\.de$
+(?:^|\.)bilibili\.tv$
 (?:^|\.)bilinovel\.com$
 (?:^|\.)biliworld\.com$
 (?:^|\.)binance\.com$
@@ -2458,7 +2459,6 @@
 (?:^|\.)matters\.town$
 (?:^|\.)matthewdgreen\.wordpress\.com$
 (?:^|\.)mattwilcox\.net$
-(?:^|\.)maven\.neoforged\.net$
 (?:^|\.)mcadforums\.com$
 (?:^|\.)mcaf\.ee$
 (?:^|\.)mceindex\.com$
@@ -2667,6 +2667,7 @@
 (?:^|\.)nekoslovakia\.net$
 (?:^|\.)neo-miracle\.com$
 (?:^|\.)neodb\.social$
+(?:^|\.)neoforged\.net$
 (?:^|\.)neowin\.net$
 (?:^|\.)nephobox\.com$
 (?:^|\.)netalert\.me$

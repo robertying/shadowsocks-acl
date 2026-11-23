@@ -1,10 +1,12 @@
-import axios from "axios";
-import fs from "fs-extra";
-import { exec } from "child_process";
+import fs from "node:fs/promises";
+import { exec } from "node:child_process";
 
 const getUrl = async (url) => {
-  const response = await axios.get(url);
-  return response.data;
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`${url} returned ${response.status}`);
+  }
+  return response.text();
 };
 
 const getDomainsFromDomainList = (list, pure) => {
@@ -21,7 +23,8 @@ const getDomainsFromDomainList = (list, pure) => {
 
 const parseGfwList = async () => {
   const script = await getUrl(
-    "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh",
+    // Pinned to a commit, so upstream changes to the script are adopted on purpose.
+    "https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/202e52fb5ea2260abc9f162b3a78e58ec9187005/gfwlist2dnsmasq.sh",
   );
   await fs.writeFile("gfwlist2dnsmasq.sh", script);
   await new Promise((resolve, reject) =>
